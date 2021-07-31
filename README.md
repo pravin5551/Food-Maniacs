@@ -38,7 +38,7 @@ This is a food ordering app
 
 
 - [Fonts]() - used for fonts
-- [Cupertino]() - used for fonts
+- [Cupertino]() - used for iPhone widgets support
 </br>
 </br>
 </br>
