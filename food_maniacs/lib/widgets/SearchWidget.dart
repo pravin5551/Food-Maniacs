@@ -16,6 +16,8 @@ class SearchWidget extends StatelessWidget {
               style: BorderStyle.none,
             ),
           ),
+          
+          //Roboto
           filled: true,
           prefixIcon: Icon(
             Icons.search,
