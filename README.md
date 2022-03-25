@@ -25,11 +25,6 @@ This is a food ordering app
   
  </table>
 
-
-
-
-
-
 ## Tech stack & Open-source libraries
 - Minimum SDK level 23
 - [Dependancies](https://github.com/rahul6975/Food-Maniacs/blob/master/food_maniacs/pubspec.yaml) for dependency injection.
